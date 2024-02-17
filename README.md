@@ -1,5 +1,5 @@
 ### WELCOME 👋👋👋
-My name is Hán Hữu Đăng, a passionate and ambitious young individual who has found his calling in the realm of Information Technology..<br>
+My name is Hán Hữu Đăng, a passionate and ambitious young individual who has found his calling in the realm of Information Technology.<br>
 
 ## 📫 How to reach me: 
 
