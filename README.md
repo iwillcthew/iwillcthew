@@ -3,6 +3,8 @@ My name is Hán Hữu Đăng, a passionate and ambitious young individual who ha
 
 ## 📫 How to reach me: 
 
+<hr/>
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](github.com/iwillcthew)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](facebook.com/iwillcthew)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](instagram.com/iwillcthew/)
