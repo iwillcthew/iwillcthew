@@ -8,6 +8,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iwillcthew&repo=TimeMana&theme=radical" />
 </a>    
+
 <a href="https://github.com/iwillcthew/CloudWeatherStation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iwillcthew&repo=CloudWeatherStation&theme=merko" />
@@ -16,6 +17,11 @@
 <a href="https://github.com/iwillcthew/ProSketch">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iwillcthew&repo=ProSketch&theme=radical" />
+</a>
+
+<a href="https://github.com/iwillcthew/SeaBattle">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iwillcthew&repo=SeaBattle&theme=merko" />
 </a>
 
 ## 📫 How to reach me: 
